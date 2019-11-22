@@ -14,7 +14,7 @@ I will start migrating my other lists here, soon. So, these list are still in pr
         - GluonCV: Deep learning toolkit for computer vision:
         https://medium.com/apache-mxnet/gluoncv-deep-learning-toolkit-for-computer-vision-9218a907e8da
     	- Online class:
-        	- Practical introduction to deep learning, theoretical aspects, and the implementations. Recomended to those who have plenty free time.
+        	- Practical introduction to deep learning, theoretical aspects, and the implementations. Recomended to those who have plenty of free time.
         https://courses.d2l.ai/berkeley-stat-157/syllabus.html
     - Backpropagation:
     	- Step by step:
@@ -27,14 +27,14 @@ I will start migrating my other lists here, soon. So, these list are still in pr
         https://deepnotes.io/softmax-crossentropy
         	- Softmax/Cross Entropy on output layer. This is recomended for those who are trying to get a deeper understanding on Backpropagation Optimization:
         https://stats.stackexchange.com/questions/235528/backpropagation-with-softmax-cross-entropy
-        	- Plenty of discussion, mainly about Gradient Descent explanation.
+        	- Plenty of discussions, mainly about Gradient Descent explanation.
         http://mccormickml.com/2014/03/04/gradient-descent-derivation/
         	- Basic explanation of Receiver Operating Characteristic (ROC). It would be good if you already have a good gars the concept of Confusion Matrix.
         https://medium.com/greyatom/lets-learn-about-auc-roc-curve-4a94b4d88152
     	- Implementation:
         	- The used of Backpropagation in the feed-fordward neural network from scratch with Python.
         https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
-        	- Multilayered perceptron from scratch:
+        	- Multilayered perceptron from scratch.
         https://gluon.mxnet.io/chapter03_deep-neural-networks/mlp-scratch.html#
 	* Discriminant Analysis (DA)
     	- A Theorethical aspect of Fisher's Exact test from Wikipedia.
