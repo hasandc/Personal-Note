@@ -1,6 +1,6 @@
 
 # My Note:
-These lists come from my Chrome Bookmark. After using a browser (not going to tell you what’s that:) ), moving these entries into a GitHub is more convenient in term of accessibility reasons.
+These lists come from my Chrome Bookmark. After using a browser (not going to tell you what’s that:) ), moving these entries into a GitHub Repo is personally more convenient in term of accessibility reasons.
 
 I will start migrating my other lists here, soon. So, these lists are still in progress to add/remove some more.
 
